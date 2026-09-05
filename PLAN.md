@@ -1,0 +1,1 @@
+- (2026-09-05) D0 공항→호텔 가이드 추가: options.md `airport`(day 0), D0 transport/highlights/decision 갱신. 근거 research/lim_airport_transfer.md (새 터미널 택시 카운터 Taxi 365/Green/Directo 70~85솔, 우버 주차장 E2, 공항버스 22:00 막차)
