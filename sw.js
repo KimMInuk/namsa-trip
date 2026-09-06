@@ -1,5 +1,5 @@
 /* namsa-trip service worker — cache first, offline capable */
-const VERSION = "namsa-v202609061718-b3728ee0";
+const VERSION = "namsa-v202609061735-c772332f";
 const CORE = VERSION + '-core';
 const RUNTIME = VERSION + '-runtime';
 
